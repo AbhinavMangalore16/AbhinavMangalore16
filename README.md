@@ -62,7 +62,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavMangalore16&" alt="AbhinavMangalore16" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhinavMangalore16&show_icons=true&locale=en&layout=compact" alt="AbhinavMangalore16" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhinavMangalore16" alt="AbhinavMangalore16" /></a></p> -->
-
+<div style="border: 2px solid #0a77b6; border-radius: 12px; padding: 16px; max-width: 400px; margin: 20px auto; text-align: center; background: linear-gradient(135deg, #e0f7fa, #e3f2fd); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h2 style="margin-bottom: 12px; font-family: Arial, sans-serif; color: #0a77b6;">📄 My Resume</h2>
+  <p style="margin: 0 0 12px; font-family: Arial, sans-serif; color: #0d47a1;">Want to know more about my skills and experience?</p>
+  <a href="https://www.linkedin.com/in/abhinav-mangalore/overlay/1734462894520/single-media-viewer/?profileId=ACoAAC2MfKUB4AYQXQM_5yI7NvmXTuMuzDMEq7U" target="_blank" style="display: inline-block; padding: 10px 20px; background: #0a77b6; color: #fff; text-decoration: none; font-family: Arial, sans-serif; font-size: 16px; border-radius: 8px; box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);">
+    View My Resume
+  </a>
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AbhinavMangalore16/AbhinavMangalore16/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/AbhinavMangalore16/AbhinavMangalore16/blob/output/github-snake.svg" />
