@@ -21,7 +21,7 @@
 </tr>
 
 <tr> 
-<td>Machine Learning & Data Science</td>
+<td>AI/ML, Data Science and MLOps</td>
 <td>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
