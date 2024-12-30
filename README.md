@@ -120,7 +120,7 @@ IoT & Hardware
 <div style="border: 2px solid #0a77b6; border-radius: 12px; padding: 16px; max-width: 400px; margin: 20px auto; text-align: center; background: linear-gradient(135deg, #e0f7fa, #e3f2fd); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <h2 style="margin-bottom: 12px; font-family: Arial, sans-serif; color: #0a77b6;">📄 My Résumé</h2>
   <p style="margin: 0 0 12px; font-family: Arial, sans-serif; color: #0d47a1;">Want to know more about my skills and experience?</p>
-  <a href="https://www.linkedin.com/in/abhinav-mangalore/overlay/1734462894520/single-media-viewer/?profileId=ACoAAC2MfKUB4AYQXQM_5yI7NvmXTuMuzDMEq7U" target="_blank" style="display: inline-block; padding: 10px 20px; background: #0a77b6; color: #fff; text-decoration: none; font-family: Arial, sans-serif; font-size: 16px; border-radius: 8px; box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);">
+  <a href="https://drive.google.com/file/d/1pjswp_i6Bc3-oozxFMhp84G-l21IzQbC/view" target="_blank" style="display: inline-block; padding: 10px 20px; background: #0a77b6; color: #fff; text-decoration: none; font-family: Arial, sans-serif; font-size: 16px; border-radius: 8px; box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);">
     View My Résumé
   </a>
 </div>
