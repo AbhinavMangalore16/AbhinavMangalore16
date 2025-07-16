@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Abhinav Mangalore</h1>
-<p>Full-Stack Web Developer | Machine Learning & MLOps Engineer | Deep Learning, Computer Vision, and NLP</p>
+<p>Full-Stack Web Developer | Machine Learning & MLOps | Deep Learning, Computer Vision, and NLP</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <table>
 <tr>
