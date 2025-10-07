@@ -32,7 +32,6 @@
 <a href="https://huggingface.co/"><img src="public/hf-logo.svg" alt="hugging_face" width="42" height="42" /></a>
 <a href="https://mlflow.org/" target="_blank"><img src="public/mlflow.png" alt="mlflow" width="42" height="42" /></a>
 <a href="https://airflow.apache.org/" target="_blank"><img src="public/apacheairflow.png" alt="apache_airflow" width="42" height="42" /></a>
-<a href="https://www.kubeflow.org/" target="_blank"><img src="public/kubeflow.jpg" alt="kubeflow" width="42" height="42" /></a>
 <a href="https://dvc.org/" target="_blank"><img src="public/dvc.svg" alt="dvc" width="42" height="42" /></a>
 <a href="https://wandb.ai/" target="_blank"><img src="public/weights_&_biases.png" alt="weights_and_biases" width="42" height="42" /></a>
 <a href="https://spark.apache.org/" target="_blank"><img src="public/apache-spark.png" alt="apache_spark" width="42" height="42" /></a>
