@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Mangalore</h1>
-<h3 align="center">AI/ML Engineer • Full Stack Developer • Building Intelligent Systems</h3>
+<h3 align="center">AI/ML Engineer • Full Stack Developer </h3>
 
 ---
 
