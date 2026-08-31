@@ -1,5 +1,5 @@
 <h1>Hello, I'm Abhinav Mangalore</h1>
-<p>Web and AI-ML Developer | Specializing in Machine Learning, Deep Learning, Computer Vision, NLP, and MLOps</p>
+<p>Software Engineer | Web and AI-ML Developer | Specializing in AI/ML, Deep Learning, Computer Vision, NLP, GenAI and MLOps</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <table>
 <tr>
